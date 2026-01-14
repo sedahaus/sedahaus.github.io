@@ -1,0 +1,11 @@
+title: sedahaus
+email: gulersedanur12@gmail.com
+description: >-
+  sedahaus
+baseurl: "/"
+url: "https://sedahaus.github.io"
+github_username:  sedahaus
+
+theme: minima
+plugins:
+  - jekyll-feed
