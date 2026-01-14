@@ -1,11 +1,24 @@
 title: sedahaus
 email: gulersedanur12@gmail.com
 description: >-
-  sedahaus
+  sedahaus kişisel blog sayfasına hoş geldiniz! 
+  Burada yazılım geliştirme, teknoloji ve kişisel deneyimlerim 
+  hakkında paylaşımlar bulabilirsiniz.
 baseurl: "/"
 url: "https://sedahaus.github.io"
 github_username:  sedahaus
 
 theme: minima
+
+minima:
+  hide_site_feed_link: true
+  social_links:
+    - title: Instagram
+      icon: instagram
+      url: "https://instagram.com/sedanurguler__"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://linkedin.com/in/sedanur-guler"
+
 plugins:
   - jekyll-feed
